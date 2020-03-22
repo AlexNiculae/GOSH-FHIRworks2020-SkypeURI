@@ -1,6 +1,8 @@
 from fhir_parser import FHIR
 from typing import List
 
+import json
+
 class SkypeURI:
     def __getSkypePrefixURI(self, patientUUIDs: List[str]):
         url = "skype:"

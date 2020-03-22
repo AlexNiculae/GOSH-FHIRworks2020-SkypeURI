@@ -1,0 +1,8 @@
+README.md
+setup.py
+SkypeURI/SkypeURI.py
+SkypeURI/__init__.py
+SkypeURI_AlexNiculae.egg-info/PKG-INFO
+SkypeURI_AlexNiculae.egg-info/SOURCES.txt
+SkypeURI_AlexNiculae.egg-info/dependency_links.txt
+SkypeURI_AlexNiculae.egg-info/top_level.txt
