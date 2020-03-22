@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# Project Descrpition
-
-This is a simple API that generates URIs to Skype group chats/calls given a list of FHIR patients UUIDs.
-=======
 # GOSH-FHIRworks2020-SkypeURI Project Descrpition
 
 This is a simple API that generates URIs to Skype group chats/calls given a list of FHIR patients UUIDs.
@@ -33,4 +28,3 @@ This is a simple API that generates URIs to Skype group chats/calls given a list
   >> patientUUIDs = [patient1UUID, patient2UUID]
   >> SkypeURI().getSkypeVideoURI(patientUUIDs)
 ```
->>>>>>> 5ae3f561d95982d607bd7f95d311ed9a6cd5f910
