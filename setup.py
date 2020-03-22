@@ -5,13 +5,14 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="GOSH-FHIRworks2020-SkypeURI", # Replace with your own username
-    version="0.0.2",
+    version="1.0.0",
     author="Alexandru-Vlad Niculae",
     author_email="43644109+AlexNiculae@users.noreply.github.com",
     description="GOSH FHIR Hackathon API",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/AlexNiculae/GOSH-FHIRworks2020-SkypeURI",
+    install_requires=['fhir-parser>=0.1.5'],
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
